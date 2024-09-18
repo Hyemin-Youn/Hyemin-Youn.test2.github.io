@@ -26,13 +26,13 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #- Information Retrieval
 
 #education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
+  courses:
+  - course: Computer engineering
+    institution: Jeonbuk National University
+    year: 2021-03-02 ~ 2024.09(ing)
+  - course: Bachelor of political science
+    institution: Jeonbuk National University
+    year: 2021-03-02 ~ 2024.09(ing)
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008
