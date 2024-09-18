@@ -6,7 +6,7 @@ title: Hyemin-Youn(윤혜민)
 superuser: true
 
 # Role/position
-role: 'STUDENT'
+role: 'student'
 
 # Status emoji
 status:
