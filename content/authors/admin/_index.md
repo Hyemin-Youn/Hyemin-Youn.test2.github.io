@@ -6,7 +6,7 @@ title: Hyemin-Youn(윤혜민)
 superuser: true
 
 # Role/position
-role: ''
+role: 'STUDENT'
 
 # Status emoji
 status:
@@ -44,7 +44,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' 
+    # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
