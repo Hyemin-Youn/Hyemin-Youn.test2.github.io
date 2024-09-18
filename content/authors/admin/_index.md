@@ -13,9 +13,9 @@ status:
   icon: 😃
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Jeonbuk National University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -25,7 +25,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 #- Computational Linguistics
 #- Information Retrieval
 
-#education:
+education:
   courses:
   - course: Computer engineering
     institution: Jeonbuk National University
